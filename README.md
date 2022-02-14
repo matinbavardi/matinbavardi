@@ -5,6 +5,8 @@ I'm a
 - [Mentor](https://sites.google.com/site/cafeplanck)
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
 
+No Social Media
+
 ### Currently Working on 
 - [Libero platform](https://liberoapp.ca/)
 
