@@ -2,7 +2,7 @@
 I'm a
 - [Profetional Android Developer](https://liberoapp.ca/)
 - [Hobbyist Photographer](https://instagram.com/libero.photo?utm_medium=copy_link)
-- [Mentor](https://sites.google.com/site/cafeplanck)
+- [Mentor](https://cafeplanck.com)
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
 
 ### Currently Working on 
