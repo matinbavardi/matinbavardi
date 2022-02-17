@@ -1,6 +1,6 @@
 ## About me
 I'm a
-- [Profetional Android Developer](https://liberoapp.ca/)
+- [Android Developer](https://liberoapp.ca/)
 - [Hobbyist Photographer](https://instagram.com/libero.photo?utm_medium=copy_link)
 - [Mentor](https://www.cafeplanck.com/)
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
@@ -20,9 +20,10 @@ December 2004
 Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
 > This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the French cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
 
+<!---
 ### No Social Media
 I don't have time for social media and TV.
-
+--->
 
 
 
