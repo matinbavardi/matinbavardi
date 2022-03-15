@@ -25,8 +25,10 @@ Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Mi
 
 ### Social Media
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40MatinBavardi)](https://twitter.com/MatinBavardi)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MatinBavardi)
 
-[![Facebook URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=%20%40MatinBavardi)](https://fb.com/matinbavardi)
+[![Facebook URL](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/matinbavardi)
+
+
 
 
