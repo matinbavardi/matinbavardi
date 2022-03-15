@@ -5,6 +5,7 @@ I'm a
 - [Mentor](https://sites.google.com/site/cafeplanck/home)
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
 
+<!---
 ### Currently Working on 
 - [Libero platform](https://liberoapp.ca/)
 
@@ -19,10 +20,6 @@ I'm a
 December 2004   
 Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
 > This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the French cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
-
-<!---
-### No Social Media
-And No TV 
 
 --->
 
