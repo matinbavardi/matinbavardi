@@ -28,7 +28,7 @@ Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Mi
 [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MatinBavardi)
 
 
-[![Facebook Page URL](https://www.facebook.com/liberophotography)](https://fb.com/liberophotography)
+[![Page URL](https://www.facebook.com/liberophotography)](https://fb.com/liberophotography)
 
 
 
