@@ -33,7 +33,7 @@ Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Mi
 --->
 
 
-[![Facebook URL](https://www.facebook.com/liberophotography)](https://fb.com/liberophotography)
+[![Facebook URL](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/liberophotography)
 
 
 
