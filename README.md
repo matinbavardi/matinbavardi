@@ -5,9 +5,9 @@ I'm a
 - [Hobbyist Photographer](https://diansoha.com)
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
 
-<!---
+
 ### Currently Working on 
-- [Libero platform](https://liberoapp.ca/)
+- [Texi Project](https://texiproject.ca/)
 
 ### Educations
 - Medical Laboratory Sciences 
@@ -21,7 +21,7 @@ December 2004
 Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
 > This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the French cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
 
---->
+
 
 
 #### Linktree:
