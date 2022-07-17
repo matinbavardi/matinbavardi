@@ -1,8 +1,8 @@
 ## About me
 I'm a
 - [Android Developer](https://liberoapp.ca/)
-- [Hobbyist Photographer](https://diansoha.com)
 - [Mentor](https://sites.google.com/site/cafeplanck/home)
+- [Hobbyist Photographer](https://diansoha.com)
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
 
 <!---
