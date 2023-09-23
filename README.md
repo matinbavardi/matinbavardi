@@ -18,7 +18,7 @@ I'm a
 - Theoretical Physics 
   - University Of Montreal (2005-2009)
 - Information Technology
-  - University Of Bavard (2009-Now)
+  - University Of Bavard (2009-Present)
   
 
 ### Awards
