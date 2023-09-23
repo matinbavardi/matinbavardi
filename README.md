@@ -2,18 +2,24 @@
 I'm a
 - [Android Developer](https://texiproject.ca/)
 - [Mentor](https://sites.google.com/site/cafeplanck/home)
+
+<!---
 - [Hobbyist Photographer](https://diansoha.com)
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
+-->
 
 
 ### Currently Working on 
 - [Texi Project](https://texiproject.ca/)
 
-### Educations
+### Educations 
 - Medical Laboratory Sciences 
   - University of Tehran (1988-1992)
 - Theoretical Physics 
   - University Of Montreal (2005-2009)
+- Information Technology
+  - University Of Bavard (2009-Now)
+  
 
 ### Awards
 - Honour medal of Foreign Affairs - France    
