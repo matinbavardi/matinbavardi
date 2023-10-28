@@ -1,6 +1,6 @@
 ## About me
 I'm a
-- [Android Developer](https://texiproject.ca/)
+- [Independent Android Developer](https://texiproject.ca/)
 - [Mentor](https://sites.google.com/site/cafeplanck/home)
 
 <!---
