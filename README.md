@@ -16,9 +16,9 @@ I'm a
 - Medical Laboratory Sciences 
   - University of Tehran (1988-1992)
 - Theoretical Physics 
-  - University Of Montreal (2005-2009)
+  - University of Montreal (2005-2009)
 - Information Technology
-  - University Of Bavard (2009-Present)
+  - University of Bavard (2009-Present)
   
 
 ### Awards
