@@ -4,10 +4,8 @@ I'm a
 - [Independent Android Developer](https://texiproject.ca/)
 - [Mentor](https://sites.google.com/site/cafeplanck/home)
 - [Hobbyist Photographer](https://diansoha.com)
-
-<!---
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
--->
+
 
 
 ### Currently Working on 
