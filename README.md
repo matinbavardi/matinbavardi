@@ -12,13 +12,14 @@ I'm a
 - [Texi App](https://texi.app/)
 
 ### Educations 
-- Medical Laboratory Sciences 
-  - University of Tehran (1988-1992)
-- Theoretical Physics 
-  - University of Montreal (2005-2009)
-- Information Technology
+- Information Technology for Islamic Philosophy
   - University of Bavard[^1] (2009-Present)
 [^1]: Was a village in Iran
+- Theoretical Physics 
+  - University of Montreal (2005-2009)
+- Medical Laboratory Sciences 
+  - University of Tehran (1988-1992)
+
 
 ### Awards
 - Honour medal of Foreign Affairs - France    
