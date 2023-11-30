@@ -9,7 +9,7 @@ I'm a
 
 
 ### Currently Working on 
-- [Texi Project](https://texiproject.ca/)
+- [Texi App](https://texi.app/)
 
 ### Educations 
 - Medical Laboratory Sciences 
