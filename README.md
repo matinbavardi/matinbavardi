@@ -7,12 +7,11 @@ I'm a
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
 
 
-
 ### Currently Working on 
 - [Texi App](https://texi.app/)
 
 ### Educations 
-- Information Technology for Islamic Philosophy
+- Computer Sciences & Islamic Philosophy
   - University of Bavard[^1] (2009-Present)
 [^1]: Was a village in Iran
 - Theoretical Physics 
