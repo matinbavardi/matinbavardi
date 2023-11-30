@@ -13,12 +13,12 @@ I'm a
 ### Educations 
 - Computer Sciences & Islamic Philosophy
   - University of Bavard[^1] (2009-Present)
-[^1]: Was a village in Iran
 - Theoretical Physics 
   - University of Montreal (2005-2009)
 - Medical Laboratory Sciences 
   - University of Tehran (1988-1992)
 
+[^1]: Was a village in Iran
 
 ### Awards
 - Honour medal of Foreign Affairs - France    
