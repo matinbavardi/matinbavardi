@@ -1,8 +1,8 @@
 ## About me
 I'm a
 - Assistant Dishwasher
-- [Independent Android Developer](https://texiproject.ca/)
-- [Mentor](https://sites.google.com/site/cafeplanck/home)
+- [Independent A://cafeplanndroid Developer](https://texi.app/)
+- [Mentor](https://www.cafeplanck.com/)
 - [Hobbyist Photographer](https://diansoha.com)
 - [Big Music Fan](https://sites.google.com/view/liberomusics)
 
