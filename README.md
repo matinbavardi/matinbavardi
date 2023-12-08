@@ -4,7 +4,7 @@ I'm a
 - [Independent Anndroid Developer](https://texi.app/)
 - [Mentor](https://www.cafeplanck.com/)
 - [Hobbyist Photographer](https://diansoha.com)
-- [Big Music Fan](https://sites.google.com/view/liberomusics)
+<!-- [Big Music Fan](https://sites.google.com/view/liberomusics) -->
 
 
 ### Currently Working on 
