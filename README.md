@@ -10,7 +10,7 @@ I'm a
 - [Texi App](https://texi.app/)
 
 ### Educations 
-- Theoretical Physics 
+- Physics and Informatics
   - University of Montreal (2005-2009)
 - Medical Laboratory Sciences 
   - University of Tehran (1988-1992)
