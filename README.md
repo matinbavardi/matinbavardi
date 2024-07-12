@@ -1,5 +1,6 @@
 ## About me
 I'm a
+- Prep Cook & Dishwasher
 - [Independent Anndroid Developer](https://texi.app/)
 - [Mentor](https://www.cafeplanck.com/)
 - [Hobbyist Photographer](https://diansoha.com)
@@ -10,10 +11,12 @@ I'm a
 - [Texi App](https://texi.app/)
 
 ### Educations 
+- Philosophy & Theology Student
 - Physics and Informatics
   - University of Montreal (2005-2009)
 - Medical Laboratory Sciences 
   - University of Tehran (1988-1992)
+
 
 ### Awards
 - Honour medal of Foreign Affairs - France    
