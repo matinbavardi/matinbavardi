@@ -8,7 +8,7 @@ I'm a
 
 
 ### Currently Working on 
-- [Texi App](https://texi.app/](https://play.google.com/store/apps/details?id=app.texi.texi))
+- [Texi App](https://play.google.com/store/apps/details?id=app.texi.texi)
 
 ### Educations 
 - Philosophy & Theology Student
