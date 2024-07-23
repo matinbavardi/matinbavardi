@@ -1,6 +1,5 @@
 ## About me
 I'm a
-- Dishwasher & Prep Cook
 - [Independent Anndroid Developer](https://texi.app/)
 - [Mentor](https://www.cafeplanck.com/)
 - [Hobbyist Photographer](https://diansoha.com)
