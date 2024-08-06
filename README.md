@@ -10,7 +10,6 @@ I'm a
 - [Texi App](https://play.google.com/store/apps/details?id=app.texi.texi)
 
 ### Educations 
-- Philosophy & Theology Student
 - Physics and Informatics
   - University of Montreal (2005-2009)
 - Medical Laboratory Sciences 
