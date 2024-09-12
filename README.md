@@ -8,12 +8,14 @@ I'm a
 ### Currently Working on 
 - [Texi App](https://play.google.com/store/apps/details?id=app.texi.texi)
 
-### Educations 
-- Physics and Informatics
+### Educations
+- Philosophy
+  - Al-Mustafa Open University (2023-Now)
+- Physics & Informatics
   - University of Montreal (2005-2009)
 - Medical Laboratory Sciences 
   - University of Tehran (1988-1992)
-- Philosophy Student
+
 
 
 ### Awards
