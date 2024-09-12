@@ -3,8 +3,7 @@ I'm a
 - Independent Anndroid Developer
 - [Mentor](https://www.cafeplanck.com/)
 - [Hobbyist Photographer](https://diansoha.com)
-- [Big Music Fan](https://sites.google.com/view/liberomusics)
-
+- [Music Enthusiast](https://sites.google.com/view/liberomusics)
 
 ### Currently Working on 
 - [Texi App](https://play.google.com/store/apps/details?id=app.texi.texi)
