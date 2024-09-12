@@ -1,6 +1,6 @@
 ## About me
 I'm a
-- [Independent Anndroid Developer](https://texi.app/)
+- [Independent Android Developer](https://texi.app/)
 - [Mentor](https://www.cafeplanck.com/)
 - [Hobbyist Photographer](https://diansoha.com)
 - [Music Enthusiast](https://sites.google.com/view/liberomusics)
