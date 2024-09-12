@@ -3,7 +3,7 @@ I'm a
 - Independent Anndroid Developer
 - [Mentor](https://www.cafeplanck.com/)
 - [Hobbyist Photographer](https://diansoha.com)
-<!-- [Big Music Fan](https://sites.google.com/view/liberomusics) -->
+- [Big Music Fan](https://sites.google.com/view/liberomusics)
 
 
 ### Currently Working on 
@@ -22,5 +22,6 @@ December 2004
 Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
 > This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the french cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
 
+##### I do not maintain a presence on social media platforms.
 <!-- [^1]: My actions were solely intended to benefit my own country, with no relation to France and its esteemed nation. -->
 
