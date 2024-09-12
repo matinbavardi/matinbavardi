@@ -13,6 +13,7 @@ I'm a
   - University of Montreal (2005-2009)
 - Medical Laboratory Sciences 
   - University of Tehran (1988-1992)
+- Philosophy Student
 
 
 ### Awards
