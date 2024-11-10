@@ -21,7 +21,7 @@ Texi has recently launched on the Google Play Store, and I am taking a break.
     As an Assistant Dishwasher, I supported the kitchen team by maintaining cleanliness and organization in a fast-paced, high-volume environment. My responsibilities included washing dishes, utensils, and cookware efficiently, ensuring they met hygiene standards, and assisting in cleaning kitchen areas. Occasionally, I also peeled carrots and potatoes to help prepare ingredients and streamline kitchen prep work. This role strengthened my attention to detail, time management, and teamwork skills, as I adapted quickly to fluctuating demands and helped maintain a clean and organized workspace.
 
 - #### Hobbyist Photographer
-    Photography is my serious hobby. I learn and practice DSLR photography at [Soha Studio](https://diansoha.com/).
+    Photography is a serious hobby of mine, where I continually develop my skills in DSLR photography at [Soha Studio](https://diansoha.com/). Through this experience, I’ve learned the technical aspects of photography, including camera settings, lighting techniques, and composition. I have practiced various photography styles, enhancing my ability to capture detail and convey emotion through images. This hobby has strengthened my creativity, attention to detail, and patience, all of which are invaluable in visual work.
 
 ### International Experience
 - #### Independent Multidisciplinary Android Developer with a Background in Clinical Laboratory Sciences and Theoretical Physics
