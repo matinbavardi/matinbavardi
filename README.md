@@ -24,7 +24,7 @@ Texi has recently launched on the Google Play Store, and I am taking a break.
     Photography is a serious hobby of mine, where I continually develop my skills in DSLR photography at [Soha Studio](https://diansoha.com/). Through this experience, I’ve learned the technical aspects of photography, including camera settings, lighting techniques, and composition. I have practiced various photography styles, enhancing my ability to capture detail and convey emotion through images. This hobby has strengthened my creativity, attention to detail, and patience, all of which are invaluable in visual work.
 
 ### International Experience
-- #### Independent Multidisciplinary Android Developer with a Background in Clinical Laboratory Sciences and Theoretical Physics
+- #### Independent Android Developer
     As a multidisciplinary Android developer, I bring a unique blend of scientific and technical expertise to my work. My background in Clinical Laboratory Sciences has equipped me with an analytical approach to problem-solving, a keen eye for precision, and rigorous attention to detail—qualities that are invaluable in software development. Theoretical Physics has further sharpened my abilities in logical reasoning and complex algorithmic thinking, allowing me to approach app development with a robust understanding of mathematical and physical models.  
     My greatest achievement in the IT world is [Texi](https://texi.app/), a project that took over ten years to develop.
 
