@@ -1,4 +1,7 @@
 # Matin Bavardi
+## The Co-Founder & CTO of PLAYTEXT SOFTWARE INC.
+A public benefit corporation dedicated to solving some of the most pressing challenges in the digital text landscape.
+
 ## Creator of Texi
 [Texi](https://texi.app/) is a versatile platform designed for creators and readers. It enhances the processes of reading, writing, editing, analyzing, archiving, publishing, and selling plain-text (.txt) files across various app markets.
 
