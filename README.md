@@ -66,7 +66,7 @@ As the creator and lead developer of [Texi](https://texi.app/), Matin has dedica
 ## Public Benefit Initiatives
 
 ### Develop Texi Platform
-[Texi](https://texi.app/) Platform,
+[Texi Platform](https://texi.app/),
 - Advocates for plain-text preservation and accessibility
 - Develops free tools for digital content creation
 - Promotes sustainable digital practices
@@ -84,8 +84,11 @@ As the creator and lead developer of [Texi](https://texi.app/), Matin has dedica
     [University of Montreal](https://phys.umontreal.ca/english/home/) 
 - #### Clinical Laboratory Science
     [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
+
+## Creative Pursuits
+Beyond his technical leadership, Bavardi is a dedicated photographer at [Soha Studio](diansoha.com), where he applies his characteristic precision and attention to detail to visual storytelling through DSLR photography. This artistic pursuit complements his technical work by bringing creative perspectives to software design and user experience.
   
-## Awards & Recognition
+## Recognition
 Matin Bavardi holds the prestigious Medal of Honor for Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm), awarded by French Prime Minister Jean-Pierre Raffarin upon recommendation from the Ministry of Foreign Affairs. This distinguished honor, established during the early Third Republic, recognizes individuals who have demonstrated exceptional service to French interests. The medal acknowledges Bavardi's significant contributions and dedication to serving French citizens abroad, representing one of France's highest civilian recognitions.
 
 ## Vision & Philosophy
