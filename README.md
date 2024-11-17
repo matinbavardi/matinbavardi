@@ -99,4 +99,4 @@ Matin's work is driven by a commitment to:
 - Creating ethical, user-respecting software
 - Contributing to public benefit through innovation
 
-Through Texi and PlayText Software Inc., Matin continues to pursue his mission of creating technology that serves the public good while preserving our digital heritage for future generations.  
+Through [Texi](https://texi.app/) and [PlayText Software Inc.](https://texi.app/company/), Matin continues to pursue his mission of creating technology that serves the public good while preserving our digital heritage for future generations.  
