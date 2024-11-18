@@ -57,22 +57,26 @@ I do not maintain a presence on social media platforms.
 Matin Bavardi is the Chief Technology Officer and Co-founder of [PlayText Software Inc.](https://texi.app/company/), a [BC Benefit Company](https://www.centreforsocialenterprise.com/benefit-company/) dedicated to preserving digital knowledge through innovative plain-text solutions. 
 
 ## Current Focus: Texi Platform
-As the creator and lead developer of [Texi](https://texi.app/), Matin has dedicated over a decade to developing a unified platform that revolutionizes how we interact with digital text. Texi represents his vision for:
+As the creator and lead developer of [Texi](https://texi.app/), Matin has dedicated over a decade to developing a unified platform that revolutionizes how we interact with plain-text. Texi represents his vision for:
 
 - **Ethical Technology:** A privacy-first approach with no ads, tracking, or metrics
 - **Digital Preservation:** Ensuring written knowledge remains accessible for future generations
 - **Universal Access:** Creating tools that work across all platforms and devices
 - **Sustainable Solutions:** Minimizing digital waste through efficient plain-text formats
+
+  
 ## Public Benefit Initiatives
+### Development of Texi Platform
+[Texi](https://texi.app/) (available on Google Play) - A unified platform that:
 
-### Develop Texi Platform
-[Texi Platform](https://texi.app/),
-- Advocates for plain-text preservation and accessibility
-- Develops free tools for digital content creation
+- Champions plain-text preservation and accessibility
+- Provides ethical, privacy-focused tools for digital content
 - Promotes sustainable digital practices
+- Offers ad-free, tracking-free user experience
 
-### Maintains Café Planck 
-[Café Planck](cafeplanck.com) is a free educational resource featuring:
+### Educational Resources
+[Café Planck](cafeplanck.com) - A free educational resource featuring:
+
 - Comprehensive Mathematics and Physics materials
 - Interactive scientific animations
 - Open-access educational tools
@@ -94,7 +98,7 @@ Matin Bavardi holds the prestigious Medal of Honor for Foreign Affairs](http://w
 ## Vision & Philosophy
 Matin's work is driven by a commitment to:
 
-- Making technology accessible to all
+- Making technology and modern education accessible to all
 - Preserving digital knowledge for future generations
 - Creating ethical, user-respecting software
 - Contributing to public benefit through innovation
