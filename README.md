@@ -12,7 +12,7 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 
   
 ## Public Benefit Initiatives
-### Development of Texi Platform
+### Texi
 [Texi](https://texi.app/) (available on Google Play) - A unified platform that:
 
 - Champions plain-text preservation and accessibility
@@ -20,7 +20,7 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 - Promotes sustainable digital practices
 - Offers ad-free, tracking-free user experience
 
-### Educational Resources
+### Café Planck
 [Café Planck](cafeplanck.com) - A free educational resource featuring:
 
 - Comprehensive Mathematics and Physics materials
@@ -29,17 +29,17 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 
 ## Educational Background
 * **Information Technology (IT)**  
-  Self-Taught in Software Development and System Architecture
+  Self-Taught in Android Development
 * **Theoretical Physics**  
   [University of Montreal](https://phys.umontreal.ca/english/home/) 
 * **Clinical Laboratory Science**  
   [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
 
 ## Creative Pursuits
-Beyond his technical leadership, Bavardi is a dedicated photographer at [Soha Studio](diansoha.com), where he applies his characteristic precision and attention to detail to visual storytelling through DSLR photography. This artistic pursuit complements his technical work by bringing creative perspectives to software design and user experience.
+Complementing the Tech Stack, Matin is a photographer's assistant, at [Soha Studio](https://diansoha.com).
   
 ## Recognition
-Matin Bavardi holds the prestigious Medal of Honor for Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm), awarded by French Prime Minister Jean-Pierre Raffarin upon recommendation from the Ministry of Foreign Affairs. This distinguished honor, established during the early Third Republic, recognizes individuals who have demonstrated exceptional service to French interests. The medal acknowledges Bavardi's significant contributions and dedication to serving French citizens abroad, representing one of France's highest civilian recognitions.
+Matin holds the prestigious [Medal of Honor for Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm), awarded by French Prime Minister Jean-Pierre Raffarin upon recommendation from the Ministry of Foreign Affairs. This distinguished honor, established during the early Third Republic, recognizes individuals who have demonstrated exceptional service to French interests. The medal acknowledges Bavardi's significant contributions and dedication to serving French citizens abroad, representing one of France's highest civilian recognitions.
 
 ## Vision & Philosophy
 Matin's work is driven by a commitment to:
