@@ -35,9 +35,6 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 
 ## Creative Pursuits
 Complementing the Tech Stack, Matin is a photographer's assistant, at [Soha Studio](https://diansoha.com).
-  
-## Recognition
-Matin holds the prestigious [Medal of Honor for Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm), awarded by French Prime Minister Jean-Pierre Raffarin upon recommendation from the Ministry of Foreign Affairs. This distinguished honor, established during the early Third Republic, recognizes individuals who have demonstrated exceptional service to French interests. The medal acknowledges Matin's significant contributions and dedication to serving French citizens abroad, representing one of France's highest civilian recognitions.
 
 ## Vision & Philosophy
 Matin's work is driven by a commitment to:
@@ -46,6 +43,12 @@ Matin's work is driven by a commitment to:
 - Preserving digital knowledge for future generations
 - Creating ethical, user-respecting software
 - Contributing to public benefit through innovation
+
+## Recognition
+[Honour medal of Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm) - France    
+December 2004   
+Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
+> This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the french cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
 
 Through [Texi](https://texi.app/) and [PlayText Software Inc.](https://texi.app/company/), Matin continues to pursue his mission of creating technology that serves the public good while preserving our digital heritage for future generations.  
 ## Social Media
