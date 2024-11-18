@@ -27,7 +27,7 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 - Interactive scientific animations
 - Open-access educational tools
 
-  ## Educational Background
+## Educational Background
 * **Information Technology (IT)**  
   Self-Taught in Software Development and System Architecture
 * **Theoretical Physics**  
