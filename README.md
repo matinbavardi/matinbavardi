@@ -28,10 +28,8 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 - Open-access educational tools
 
 ## Educational Background
-* **Information Technology (IT)**  
-  Self-Taught in Android Development
-* **Theoretical Physics**  
-  [University of Montreal](https://phys.umontreal.ca/english/home/) 
+* **Physics and Computer Science**  
+  [University of Montreal](https://phys.umontreal.ca/accueil/) 
 * **Clinical Laboratory Science**  
   [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
 
