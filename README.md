@@ -13,7 +13,7 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
   
 ## Public Benefit Initiatives
 ### Texi
-[Texi](https://texi.app/) (available on Google Play) - A unified platform that:
+[Texi](https://texi.app/) - A unified platform that:
 
 - Champions plain-text preservation and accessibility
 - Provides ethical, privacy-focused tools for digital content
