@@ -37,7 +37,7 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 Complementing the Tech Stack, Matin is a photographer's assistant, at [Soha Studio](https://diansoha.com).
   
 ## Recognition
-Matin holds the prestigious [Medal of Honor for Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm), awarded by French Prime Minister Jean-Pierre Raffarin upon recommendation from the Ministry of Foreign Affairs. This distinguished honor, established during the early Third Republic, recognizes individuals who have demonstrated exceptional service to French interests. The medal acknowledges Bavardi's significant contributions and dedication to serving French citizens abroad, representing one of France's highest civilian recognitions.
+Matin holds the prestigious [Medal of Honor for Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm), awarded by French Prime Minister Jean-Pierre Raffarin upon recommendation from the Ministry of Foreign Affairs. This distinguished honor, established during the early Third Republic, recognizes individuals who have demonstrated exceptional service to French interests. The medal acknowledges Matin's significant contributions and dedication to serving French citizens abroad, representing one of France's highest civilian recognitions.
 
 ## Vision & Philosophy
 Matin's work is driven by a commitment to:
