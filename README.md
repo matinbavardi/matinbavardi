@@ -27,13 +27,13 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 - Interactive scientific animations
 - Open-access educational tools
 
-## Education
-- #### Information Technology (IT)
-    Self-Taught 
--  #### Theoretical Physics
-    [University of Montreal](https://phys.umontreal.ca/english/home/) 
-- #### Clinical Laboratory Science
-    [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
+  ## Educational Background
+* **Information Technology (IT)**  
+  Self-Taught in Software Development and System Architecture
+* **Theoretical Physics**  
+  [University of Montreal](https://phys.umontreal.ca/english/home/) 
+* **Clinical Laboratory Science**  
+  [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
 
 ## Creative Pursuits
 Beyond his technical leadership, Bavardi is a dedicated photographer at [Soha Studio](diansoha.com), where he applies his characteristic precision and attention to detail to visual storytelling through DSLR photography. This artistic pursuit complements his technical work by bringing creative perspectives to software design and user experience.
