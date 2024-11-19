@@ -38,6 +38,5 @@ December 2004
 Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
 > This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the french cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
 
-Through [Texi](https://texi.app/) and [PlayText Software Inc.](https://texi.app/company/), Matin continues to pursue his mission of creating technology that serves the public good while preserving our digital heritage for future generations.  
 ## Social Media
 Matin maintains a minimal digital presence, exclusively using GitHub for open-source development while abstaining from social media platforms. 
