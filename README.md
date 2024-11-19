@@ -12,16 +12,8 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 
   
 ## Public Benefit Initiatives
-### [Texi](https://texi.app/) - A unified platform that:
-- Champions plain-text preservation and accessibility
-- Provides ethical, privacy-focused tools for digital content
-- Promotes sustainable digital practices
-- Offers ad-free, tracking-free user experience
-
-### [Café Planck](cafeplanck.com) - A free educational resource featuring:
-- Comprehensive Mathematics and Physics materials
-- Interactive scientific animations
-- Open-access educational tools
+* [Texi](https://texi.app)
+* [Café Planck](cafeplanck.com) 
 
 ## Educational Background
 * **Physics and Computer Science**  
