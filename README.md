@@ -2,6 +2,10 @@
 ## Professional Profile
 Matin is the Chief Technology Officer and Co-founder of [PlayText Software Inc.](https://texi.app/company/), a [BC Benefit Company](https://www.centreforsocialenterprise.com/benefit-company/) dedicated to preserving digital knowledge through innovative plain-text solutions. 
 
+## Public Benefit Initiatives
+* [Texi](https://texi.app)
+* [Café Planck](cafeplanck.com) 
+
 ## Current Focus: Texi Platform
 As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade to developing a unified platform that revolutionizes how we interact with plain-text. Texi represents his vision for:
 
@@ -10,10 +14,6 @@ As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade t
 - **Universal Access:** Creating tools that work across all platforms and devices
 - **Sustainable Solutions:** Minimizing digital waste through efficient plain-text formats
 
-  
-## Public Benefit Initiatives
-* [Texi](https://texi.app)
-* [Café Planck](cafeplanck.com) 
 
 ## Educational Background
 * **Physics and Computer Science**  
