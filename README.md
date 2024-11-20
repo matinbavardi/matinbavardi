@@ -1,5 +1,4 @@
-# Matin Bavardi
-## Professional Profile
+# Professional Profile
 Matin is the Chief Technology Officer and Co-founder of [PlayText Software Inc.](https://texi.app/company/), a [BC Benefit Company](https://www.centreforsocialenterprise.com/benefit-company/) dedicated to preserving digital knowledge through innovative plain-text solutions. 
 
 ## Public Benefit Initiatives
