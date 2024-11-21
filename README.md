@@ -7,13 +7,7 @@ Matin is the Chief Technology Officer and Co-founder of [PlayText Software Inc.]
 * [Café Planck](https://matinbavardi.github.io/cafeplanck/)
 
 ## Current Focus: Texi Platform
-As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade to developing a unified platform that revolutionizes how we interact with plain-text. Texi represents his vision for:
-
-- **Ethical Technology:** A privacy-first approach with no ads, tracking, or metrics
-- **Digital Preservation:** Ensuring written knowledge remains accessible for future generations
-- **Universal Access:** Creating tools that work across all platforms and devices
-- **Sustainable Solutions:** Minimizing digital waste through efficient plain-text formats
-
+As the creator of [Texi](https://texi.app/), Matin has dedicated over a decade to developing a unified platform that revolutionizes how we interact with plain-texts.
 
 ## Educational Background
 * **Physics and Computer Science**  
