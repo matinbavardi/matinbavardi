@@ -15,8 +15,6 @@ As the developer of [Texi](https://texi.app/), Matin has dedicated over a decade
 * **Clinical Laboratory Science**  
   [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
 
-## Creative Pursuits
-Complementing the Tech Stack, Matin is a photographer's assistant, at [Soha Studio](https://diansoha.com).
 
 ## Vision & Philosophy
 Matin's work is driven by a commitment to:
@@ -25,6 +23,10 @@ Matin's work is driven by a commitment to:
 - Preserving digital knowledge for future generations
 - Creating ethical, user-respecting software
 - Contributing to public benefit through innovation
+
+## Creative Pursuits
+Complementing the Tech Stack, Matin is a photographer's assistant, at [Soha Studio](https://diansoha.com).
+
 
 ## Recognition
 [Honour medal of Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm) - France    
