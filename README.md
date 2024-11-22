@@ -19,10 +19,10 @@ As the developer of [Texi](https://texi.app/), Matin has dedicated over a decade
 ## Vision & Philosophy
 Matin's work is driven by a commitment to:
 
+- Contributing to public benefit through innovation
 - Preserving digital knowledge for future generations
 - Making technology and modern education accessible to all
 - Creating ethical, user-respecting social media
-- Contributing to public benefit through innovation
 
 ## Creative Pursuits
 Complementing the Tech Stack, Matin is a photographer's assistant, at [Soha Studio](https://diansoha.com).
