@@ -1,13 +1,13 @@
 # Matin Bavardi
 
-Matin is the Chief Technology Officer and Co-founder of [PlayText Software Inc.](https://texi.app/company/), a [BC Benefit Company](https://www.centreforsocialenterprise.com/benefit-company/) dedicated to preserving digital knowledge through innovative plain-text solutions. 
+Matin is the Chief Technology Officer and Co-founder of [PlayText Software Inc.](https://playtext.ca), a [BC Benefit Company](https://www.centreforsocialenterprise.com/benefit-company/) dedicated to preserving digital knowledge through innovative plain-text solutions. 
 
 ## Public Benefit Initiatives
-* [Texi](https://texi.app)
-* [Café Planck](https://matinbavardi.github.io/cafeplanck/)
+* [Texi](https://playtext.ca/texi)
+* [Café Planck](https://cafeplanck.com/)
 
 ## Current Focus: Texi
-As the developer of [Texi](https://texi.app/), Matin has dedicated over a decade to engineering a unified platform that fundamentally transforms how we interact with plain-text.
+As the developer of [Texi](https://playtext.ca/texi), Matin has dedicated over a decade to engineering a unified platform that fundamentally transforms how we interact with plain-text.
 
 ## Educational Background
 * **Physics and Computer Science**  
