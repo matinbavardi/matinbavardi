@@ -32,7 +32,7 @@ Complementing the Tech Stack, Matin is a photographer's assistant, at [Soha Stud
 [Honour medal of Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm) - France    
 December 2004   
 Issued by, France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
-> This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the french cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
+> This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the French cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
 
 ## Social Media
 Matin maintains a minimal digital presence, exclusively using GitHub for open-source development while abstaining from social media platforms. 
