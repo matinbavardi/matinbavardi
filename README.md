@@ -42,4 +42,4 @@ Issued by France Prime Minister Jean-Pierre Raffarin, on the proposal of the Min
 > This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the French cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
 
 ## Social Media
-On [my Twitter account](https://x.com/matinbavardi), I follow individuals who have the highest global credibility, and I retweet a selection of their posts. The account serves as a response to questions from my Canadian friends, which are usually about events in Iran.
+On [my Twitter account](https://x.com/matinbavardi), I follow individuals who have the highest global credibility, if you would like to stay informed through credible, analytical insights on events in Iran and the world, I recommend these followings to you.
