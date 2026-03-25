@@ -14,6 +14,8 @@ As the developer of [Texi](https://playtext.ca/texi), Matin has dedicated over a
   [University of Montreal](https://phys.umontreal.ca/accueil/) 
 * **Clinical Laboratory Science**  
   [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
+* **Islamic Philosophy** *(current student)*  
+  [Al-Mustafa International University](https://miu.ac.ir/)
 
 ## Classroom Resources
 Over a 40-year period, approximately 35,000 pages of educational notes were prepared by Matin in English, French, and Persian. These resources were provided to students and served as the foundation of his pedagogical approach for many years. The writings are divided into two main sections: 
