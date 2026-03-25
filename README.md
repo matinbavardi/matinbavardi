@@ -10,10 +10,13 @@ Matin is the Co-founder of [PlayText Software Inc.](https://playtext.ca), a [BC 
 As the developer of [Texi](https://playtext.ca/texi), Matin has dedicated over a decade to engineering a unified platform that fundamentally transforms how we interact with plain-text.
 
 ## Educational Background
+* **Islamic Philosophy** *(current student)*  
+  [Al-Mustafa International University](https://miu.ac.ir/)
 * **Physics and Computer Science**  
   [University of Montreal](https://phys.umontreal.ca/accueil/) 
 * **Clinical Laboratory Science**  
   [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
+
 
 ## Classroom Resources
 Over a 40-year period, approximately 35,000 pages of educational notes were prepared by Matin in English, French, and Persian. These resources were provided to students and served as the foundation of his pedagogical approach for many years. The writings are divided into two main sections: 
