@@ -10,7 +10,7 @@ Matin is the Co-founder of [PlayText Software Inc.](https://playtext.ca), a [BC 
 As the developer of [Texi](https://playtext.ca/texi), Matin has dedicated over a decade to engineering a unified platform that fundamentally transforms how we interact with plain-text.
 
 ## Educational Background
-* **Islamic Philosophy** *(current student)*  
+* **Shiite Islamic Theology** *(current student)*  
   [Al-Mustafa International University](https://miu.ac.ir/)
 * **Physics and Computer Science**  
   [University of Montreal](https://phys.umontreal.ca/accueil/) 
