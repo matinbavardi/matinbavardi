@@ -19,7 +19,7 @@ As the developer of [Texi](https://playtext.ca/texi), Matin has dedicated over a
 
 
 ## Classroom Resources
-Over a 40-year period, approximately 35,000 pages of educational notes were prepared by Matin in English, French, and Persian. These resources were provided to students and served as the foundation of his pedagogical approach for many years. The writings are divided into two main sections: 
+Over a 40-year period, approximately 30,000 pages of educational notes were prepared by Matin in English, French, and Persian. These resources were provided to students and served as the foundation of his pedagogical approach for many years. The writings are divided into two main sections: 
 * [Mathematics](https://github.com/matinbavardi/cafeplanck?tab=readme-ov-file#mathematics)
 * [Physics](https://github.com/matinbavardi/cafeplanck?tab=readme-ov-file#physics)
 
