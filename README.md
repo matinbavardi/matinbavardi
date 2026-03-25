@@ -6,9 +6,6 @@ Matin is the Co-founder of [PlayText Software Inc.](https://playtext.ca), a [BC 
 * [Texi](https://playtext.ca/texi)
 * [Café Planck](https://cafeplanck.com/)
 
-## My Classroom Resources
-Over a 40-year period, approximately 35,000 pages of educational notes were prepared by Matin in English, French, and Persian. These resources were provided to students and served as the foundation of his pedagogical approach for many years. The writings are divided into two main sections: [Mathematics]([https://playtext.ca/texi](https://github.com/matinbavardi/cafeplanck?tab=readme-ov-file#mathematics)) and [Physics]([https://playtext.ca/texi](https://github.com/matinbavardi/cafeplanck?tab=readme-ov-file#physics)).
-
 ## Current Focus: Texi
 As the developer of [Texi](https://playtext.ca/texi), Matin has dedicated over a decade to engineering a unified platform that fundamentally transforms how we interact with plain-text.
 
@@ -18,6 +15,10 @@ As the developer of [Texi](https://playtext.ca/texi), Matin has dedicated over a
 * **Clinical Laboratory Science**  
   [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
 
+## My Classroom Resources
+Over a 40-year period, approximately 35,000 pages of educational notes were prepared by Matin in English, French, and Persian. These resources were provided to students and served as the foundation of his pedagogical approach for many years. The writings are divided into two main sections: 
+* [Mathematics](https://github.com/matinbavardi/cafeplanck?tab=readme-ov-file#mathematics)
+* [Physics](https://github.com/matinbavardi/cafeplanck?tab=readme-ov-file#physics).
 
 ## Vision & Philosophy
 Matin's work is driven by a commitment to:
