@@ -45,5 +45,5 @@ Issued by France Prime Minister Jean-Pierre Raffarin, on the proposal of the Min
 On [my Twitter account](https://x.com/matinbavardi), I follow individuals who have the highest global credibility, if you would like to stay informed through credible, analytical insights on events in Iran and the world, I recommend these followings to you.
 
 Alternatively, if you prefer, you can engage with these individuals through the files below:
-- Voices Worth Listening To.pdf ([Download](https://github.com/matinbavardi/matinbavardi/blob/main/Voices%20Worth%20Listening%20To.pdf))
-- Voices Worth Listening To - Farsi.pdf ([Download](https://github.com/matinbavardi/matinbavardi/blob/main/Voices%20Worth%20Listening%20To%20-%20Farsi.pdf))
+- [Voices Worth Listening To.pdf](https://github.com/matinbavardi/matinbavardi/blob/main/Voices%20Worth%20Listening%20To.pdf)
+- [Voices Worth Listening To - Farsi.pdf](https://github.com/matinbavardi/matinbavardi/blob/main/Voices%20Worth%20Listening%20To%20-%20Farsi.pdf)
