@@ -32,11 +32,17 @@ Matin's work is driven by a commitment to:
 - Creating ethical, user-respecting social platforms
 
 ## Creative Pursuits
-Beyond his technical work, Matin serves as a photographer's assistant at [Soha Studio](https://dslrphoto.myportfolio.com/).
-
+Beyond his technical work, Matin serves as a photographer's assistant at [Soha Studio](https://dslrphoto.myportfolio.com/).  
+He is also engaged in culinary arts, continuously developing his knowledge and professional skills in food safety and kitchen practices.
+### Certifications
+ - Food Safe Level 1
+ - Food Safe Level 2 (on the way)
+ - Food Handler Certificate
+ - Food Allergen Awareness
+ - Introduction to Food Microbiology
 
 ## Recognition
 [Honour medal of Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm) - France    
-December 2004   
+December 2001   
 Issued by France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
 > This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the French cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
