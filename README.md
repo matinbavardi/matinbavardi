@@ -33,7 +33,7 @@ Matin's work is driven by a commitment to:
 
 ## Creative Pursuits
 Beyond his technical work, Matin serves as a photographer's assistant at [Soha Studio](https://dslrphoto.myportfolio.com/).  
-He is also engaged in culinary arts, continuously developing his knowledge and professional skills in food safety and kitchen practices.
+He is also engaged in culinary arts, continuously developing his knowledge and professional skills in food safety.
 ### Certifications
  - Food Safe Level 1
  - Food Safe Level 2 (on the way)
