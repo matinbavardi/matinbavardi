@@ -35,11 +35,18 @@ Matin's work is driven by a commitment to:
 Beyond his technical work, Matin serves as a photographer's assistant at [Soha Studio](https://dslrphoto.myportfolio.com/).  
 He is also engaged in culinary arts, continuously developing his knowledge and professional skills in food safety.
 ### Certifications
- - Food Safe Level 1
- - Food Safe Level 2 (on the way)
- - Food Handler Certificate
- - Food Allergen Awareness
- - Introduction to Food Microbiology
+- Food Safe Level 1
+- Food Safe Level 2
+- Food Handler Certificate
+- Food Allergen Awareness
+- Introduction to Food Microbiology
+- WHMIS 2025 - GHS
+- Fire & Fire Extinguisher Safety
+- Communication Skills Pathway Training
+- The Respectful Workplace For Employees
+- Violence In The Workplace Awareness
+- Mental Health Awareness
+
 
 ## Recognition
 [Honour medal of Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm) - France    
