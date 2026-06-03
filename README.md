@@ -39,7 +39,6 @@ He is also engaged in culinary arts, continuously developing his knowledge and p
 - Food Safe Level 2
 - Food Handler Certificate
 - Food Allergen Awareness
-- Introduction to Food Microbiology
 - WHMIS 2025 - GHS
 - Fire & Fire Extinguisher Safety
 - Communication Skills Pathway Training
