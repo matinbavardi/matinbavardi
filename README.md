@@ -37,6 +37,7 @@ He is also engaged in culinary arts, continuously developing his knowledge and p
 ### Certifications
 - Food Safe Level 1
 - Food Safe Level 2
+- Introduction to Food Microbiology
 - Food Handler Certificate
 - Food Allergen Awareness
 - WHMIS 2025 - GHS
