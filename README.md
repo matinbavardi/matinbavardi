@@ -1,4 +1,4 @@
-# Matin Bavardi (OLD Version)
+# Matin Bavardi
 
 Matin is the Co-founder of [PlayText Software Inc.](https://playtext.ca), a [BC Benefit Company](https://www.centreforsocialenterprise.com/benefit-company/) dedicated to preserving digital knowledge through innovative plain-text solutions.
 
