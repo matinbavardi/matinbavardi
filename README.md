@@ -1,53 +1,18 @@
-# Matin Bavardi
+# About Matin
 
-Matin is the Co-founder of [PlayText Software Inc.](https://playtext.ca), a [BC Benefit Company](https://www.centreforsocialenterprise.com/benefit-company/) dedicated to preserving digital knowledge through innovative plain-text solutions.
+> **The future belongs to AI agents. I'm building it.**
 
-## Public Benefit Initiatives
-* [Texi](https://playtext.ca/texi)
-* [Café Planck](https://cafeplanck.com/)
+Matin is a **Physics & Informatics** graduate from the **University of Montreal** with years of hands-on experience in **Android development** — and he is now channeling that experience into the world he believes will define the next decade of technology: **Agentic AI**.
 
-## Current Focus: Texi
-As the developer of [Texi](https://playtext.ca/texi), Matin has dedicated over a decade to engineering a unified platform that fundamentally transforms how we interact with plain-text.
+His path here wasn't accidental. Long before *"AI agents"* became an industry buzzword, Matin was building automation systems in **Python** — writing his own logic, orchestrating his own workflows, and deliberately choosing code over drag-and-drop platforms like Make.com, n8n, or Zapier. He has always preferred the depth, control, and precision that pure Python offers.
 
-## Educational Background
-* **Physics and Computer Science**  
-  [University of Montreal](https://phys.umontreal.ca/accueil/) 
-* **Clinical Laboratory Science**  
-  [TUMS School of Allied Medical Sciences](https://en.tums.ac.ir/en/department/major/412/clinical-laboratory-sciences-cls-)
+Discovering Agentic AI was the **turning point** of his professional life. He recognized in it the exact architecture he had always loved about Python automation — *autonomous systems that reason, decide, and act* — but elevated to an entirely new paradigm. To Matin, the future clearly belongs to AI agents, whether in **software automation** or in **robotics**.
 
+To align his skills with where the market is heading, he completed IBM's [**Building AI Agents and Agentic Workflows Specialization**](https://www.coursera.org/specializations/building-ai-agents-and-agentic-workflows) on Coursera — a program focused on building autonomous applications with AI agents and mastering multi-agent frameworks including:
 
-## Classroom Resources
-Over a 40-year period, approximately 30,000 pages of educational notes were prepared by Matin in English, French, and Persian. These resources were provided to students and served as the foundation of his pedagogical approach for many years. The writings are divided into two main sections: 
-* [Mathematics](https://github.com/matinbavardi/cafeplanck?tab=readme-ov-file#mathematics)
-* [Physics](https://github.com/matinbavardi/cafeplanck?tab=readme-ov-file#physics)
+- **LangGraph**
+- **CrewAI**
+- **BeeAI**
+- **AG2 (AutoGen)**
 
-## Vision & Philosophy
-Matin's work is driven by a commitment to:
-
-- Contributing to public benefit through innovation
-- Preserving digital knowledge for future generations
-- Making technology and modern education accessible to all
-- Creating ethical, user-respecting social platforms
-
-## Creative Pursuits
-Beyond his technical work, Matin serves as a photographer's assistant at [Soha Studio](https://dslrphoto.myportfolio.com/).  
-He is also engaged in culinary arts, continuously developing his knowledge and professional skills in food safety.
-### Certifications
-- Food Safe Level 1
-- Food Safe Level 2
-- Introduction to Food Microbiology
-- Food Handler Certificate
-- Food Allergen Awareness
-- WHMIS 2025 - GHS
-- Fire & Fire Extinguisher Safety
-- Communication Skills Pathway Training
-- The Respectful Workplace For Employees
-- Violence In The Workplace Awareness
-- Mental Health Awareness
-
-
-## Recognition
-[Honour medal of Foreign Affairs](http://www.france-phaleristique.com/medaille_honneur_affaires_etrangeres.htm) - France    
-December 2001   
-Issued by France Prime Minister Jean-Pierre Raffarin, on the proposal of the Ministry of Foreign Affairs.   
-> This prestigious award is a French decoration, created at the beginning of the Third Republic, to reward outstanding services to the French cause, and to recognize acts of courage and devotion to duties performed for French citizens outside of France.
+It's a foundation he builds on every day through real projects and continuous experimentation.
