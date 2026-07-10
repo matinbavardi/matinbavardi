@@ -1,7 +1,5 @@
 # About Matin
 
-> **The future belongs to AI agents. I'm building it.**
-
 Matin is a **Physics & Informatics** graduate from the **University of Montreal** with years of hands-on experience in **Android development** — and he is now channeling that experience into the world he believes will define the next decade of technology: **Agentic AI**.
 
 His path here wasn't accidental. Long before *"AI agents"* became an industry buzzword, Matin was building automation systems in **Python** — writing his own logic, orchestrating his own workflows, and deliberately choosing code over drag-and-drop platforms like Make.com, n8n, or Zapier. He has always preferred the depth, control, and precision that pure Python offers.
